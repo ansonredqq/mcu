@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown-preview-enhanced.alwaysShowBacklinksInPreview": true,
+		"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true
+	}
+}
