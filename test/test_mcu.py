@@ -8,3 +8,6 @@ handle = Reg_Handle(1)
 eq_inst = Eq(handle)
 eq_inst.set("ffe_taps", 0x78)
 print(eq_inst.get('ffe_taps'))
+
+def test_ab(x):
+    print('hello')
